@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="667c4966-bba3-410d-aac4-3f9c8836bd72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/java-learnings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basics/src/com/dwb/loops/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basics/src/com/dwb/loops/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.test/com.dwb.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.test/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/src/details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/src/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/src/print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/src/store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/src/tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tables/tables.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24lejStITk0ilCOO5RXZ8OmDq9z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Userdetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Userdetails" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Userdetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="667c4966-bba3-410d-aac4-3f9c8836bd72" name="Changes" comment="" />
+      <created>1644209737858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644209737858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
