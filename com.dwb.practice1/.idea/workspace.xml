@@ -2,36 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667c4966-bba3-410d-aac4-3f9c8836bd72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/java-learnings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/com/dwb/loops/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../basics/src/com/dwb/loops/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.practice/src/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.test/com.dwb.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.test/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../loop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/src/details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/src/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/src/print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/src/store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/src/tables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tables/tables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Scase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/TimeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Possibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.workout/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.workout/src/SumofDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Sumofthreedigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Daily report.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Daily report.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/NumberPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/NumberPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Relational.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Relational.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/comparisionUsingIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/comparisionUsingIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/loopsdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/loopsdemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Methodsdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Methodsdemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Palindraome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Palindraome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Primedemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Primedemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

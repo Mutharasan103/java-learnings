@@ -1,0 +1,18 @@
+[
+  {
+    "employee": {
+      "firstName": "Muthu",
+      "lastName": "Arasan",
+      "mail": "arasan103gmail.com",
+      "city": "Nazareth"
+    }
+  },
+  {
+    "employee": {
+      "firstName": "Pearl",
+      "lastName": "king",
+      "mail": "king@gmail.com",
+      "city": "Tuticorin"
+    }
+  }
+]

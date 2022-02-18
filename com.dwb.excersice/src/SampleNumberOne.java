@@ -1,39 +1,47 @@
 import javax.swing.*;
+import java.util.Scanner;
 
-public class Excersice1 {
-  
-        public void main(String[] args) {
-            int computerNumber = (int) (Math.random()*100 + 1);
-            int userAnswer = 0;
-            System.out.println("The correct guess would be " + computerNumber);
-            int count = 1;
+public class sampleNumberOne {
+    public static void main(String[] args) {
+        int ComputerNumber = (int) (Math.random()*100+1);
+        //int UserNumber = 0;
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please Enter the Number");
+        int number = scanner.nextInt();
+        System.out.println("The Correct Number is " +ComputerNumber);
+        int count = 1;
 
-            while (userAnswer != computerNumber)
-            {
-                String response = JOptionPane.showInputDialog(null,
-                        "Enter a guess between 1 and 100", "Guessing Game", 3);
-                userAnswer = Integer.parseInt(response);
-                JOptionPane.showMessageDialog(null, ""+ determineGuess(userAnswer, computerNumber, count));
-                count++;
-            }
+        while (number!=0)
+        {
+            String response = JOptionPane.showInputDialog(null,"Enter a guess between 1 and 100", "Guessing Game", 3);
+            number = Integer.parseInt(response);
+            JOptionPane.showMessageDialog(null, "  " + guess(number,ComputerNumber,count));
+            count++;
+        }
+    }
+    public static String guess(int number, int ComputerNumber, int count)
+    {
+        if (number<=0||number>100)
+        {
+           return "Your Guess is Invalid";
+        }
+        else if (number==ComputerNumber)
+        {
+            return "Your guess is right!\nTotal guesses is "+count;
+        }
+        else if (number>ComputerNumber)
+        {
+            return "Your guess too High!\nTotal guesses is "+count;
+        }
+        else if (number<ComputerNumber)
+        {
+            return "Your guess is too Low\nTotal guesses is "+count;
+        }
+        else
+        {
+            final String s = "Your guess is incorrect\n Please try again later " + count;
+            return s;
         }
 
-        public String determineGuess(int userAnswer, int computerNumber, int count){
-            if (userAnswer <=0 || userAnswer >100) {
-                return "Your guess is invalid";
-            }
-            else if (userAnswer == computerNumber ){
-                return "Correct!\nTotal Guesses: " + count;
-            }
-            else if (userAnswer > computerNumber) {
-                return "Your guess is too high, try again.\nTry Number: " + count;
-            }
-            else if (userAnswer < computerNumber) {
-                return "Your guess is too low, try again.\nTry Number: " + count;
-            }
-            else {
-                return "Your guess is incorrect\nTry Number: " + count;
-            }
-        }
     }
 }
