@@ -2,6 +2,9 @@
 
 
 
+import jdk.nashorn.internal.parser.JSONParser;
+import org.json.simple.JSONObject;
+
 import java.io.FileWriter;
 import java.io.IOException;
 
@@ -42,14 +45,9 @@ public class JsonDemo {
 
         }
 
-    private static class JSONObject {
-            String firstname;
-            String lastname;
-            String mail;
-            String city;
-    }
-}
-
-
 
 }
+
+
+
+
