@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5221d274-b624-4654-948e-c31da08532ed" name="Changes" comment="" />
+    <list default="true" id="5221d274-b624-4654-948e-c31da08532ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Arraylisdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreateHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreateList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeUsingArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmployeeUsingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excersice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hashmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashsetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JsonRead/src/Jsonread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultithreadingRunnableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueueCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThreadConcepts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreesetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily report.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java - Learnings.pptx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
