@@ -1,2 +1,4 @@
-package com.dwb.Springdemo;public @interface RestController {
+package com.dwb.Springdemo;
+
+public @interface RestController {
 }

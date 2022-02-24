@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcb4c5d9-7f7d-4621-a9f2-a05ea964e486" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Arraylisdemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreateHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreateList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeUsingArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeUsingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excersice1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hashmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashsetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mulithreading.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MultithreadingRunnableInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QueueCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThreadConcepts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TreesetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/com.dwb.dpring.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25SiOTAECoFzb7mqFVHFuc83vvL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring-demo" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcb4c5d9-7f7d-4621-a9f2-a05ea964e486" name="Changes" comment="" />
+      <created>1645526855489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645526855489</updated>
+    </task>
+    <servers />
+  </component>
+</project>

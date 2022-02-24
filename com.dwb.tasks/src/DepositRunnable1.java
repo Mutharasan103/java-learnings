@@ -8,7 +8,7 @@ public class DepositRunnable1 implements Runnable {
        // this.count = count;
     }
 
-    private int count;
+    //private int count;
 
     @Override
     synchronized public void run()

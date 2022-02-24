@@ -4,11 +4,11 @@ import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
-//@Primary
-public class SuperContraGame implements GamingConsole {
+@Primary
+public class PacManGame implements GamingConsole {
     public void up()
     {
-        System.out.println("UP");
+        System.out.println("PACMAN UP");
     }
     public void down()
     {
