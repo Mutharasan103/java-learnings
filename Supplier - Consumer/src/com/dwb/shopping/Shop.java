@@ -6,7 +6,7 @@ import java.util.Queue;
 
 public class Shop implements Runnable{
     private String name;
-    //private Map<String, Product> products = new HashMap<>();
+    private Map<String, Product> products = new HashMap<>();
     private boolean stopThread = false;
     private Queue<Product> dataQ = null;
 
@@ -21,6 +21,14 @@ public class Shop implements Runnable{
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public Map<String, Product> getProducts() {
+        return products;
+    }
+
+    public void setProducts(Map<String, Product> products) {
+        this.products = products;
     }
 
     @Override

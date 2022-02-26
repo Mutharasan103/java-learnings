@@ -9,18 +9,25 @@ public class EcomMain {
 
         Queue<Product> dataQueue = new LinkedList<>();
 
+
         Product soap = new Product("Dove",5);
 
-        Supplier supplier = new Supplier("Sup1",soap,dataQueue);
-        Consumer consumer = new Consumer("Consumer1",dataQueue);
-//        Shop shop = new Shop("MyShop",dataQueue);
 
-        Thread sup = new Thread(supplier);
+        Supplier supplier = new Supplier("Arasan",soap,dataQueue);
+
+        Consumer consumer = new Consumer("Consumer1",dataQueue);
+
+         Shop shop = new Shop("MyShop",dataQueue);
+
+        Thread sup1 = new Thread(supplier);
+
         Thread cons = new Thread(consumer);
-//        Thread shopThread = new Thread(shop);
-        sup.start();
+
+        sup1.start();
+
         cons.start();
-//        shopThread.start();
+
+
 
     }
 
