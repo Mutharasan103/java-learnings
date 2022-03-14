@@ -1,6 +1,4 @@
-package com.dwb.ecommerce;
-
-import java.util.Objects;
+package com.dwb.shopping;
 
 public class Product {
     private String name;

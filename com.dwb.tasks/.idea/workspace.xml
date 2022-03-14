@@ -2,70 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="016a3d06-4496-45eb-9fa0-87f40cd59b29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/Prod-Cons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/EcomMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/PacManGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/com.dwb.ecommerce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/src/ThreadConcept/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/src/ThreadConcept/Ecommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/src/ThreadConcept/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.ecommerce/src/ThreadConcept/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/EcommerceRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/customer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/customer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/customer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/customer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/customer5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/supplier1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ecommerce/supplier2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arraylisdemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateHashSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CreateList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeUsingArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeUsingList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Excersice1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Hashmap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HashsetDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mulithreading/Mulithreading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mulithreading/Mulithreading.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MultithreadingRunnableInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueCreate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring-demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/Contoller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/GameRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/GameRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/GamingConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/GamingConsole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/Mariogame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/Mariogame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/SuperContraGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springdemo/src/main/java/com/dwb/Springdemo/SuperContraGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springdemo/src/test/java/com/dwb/Springdemo/RestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Springdemo/src/test/java/com/dwb/Springdemo/RestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ThreadConcepts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreesetDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.dpring/com.dwb.dpring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.practice1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.practice1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DepositRunnable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DepositRunnable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/ShopRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/EcomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/EcomMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/EcomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/EcomMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.excersice/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.excersice/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.dwb.excersice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.excersice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

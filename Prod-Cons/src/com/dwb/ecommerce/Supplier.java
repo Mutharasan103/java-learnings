@@ -1,14 +1,15 @@
 package com.dwb.ecommerce;
 
 import java.util.Queue;
-import java.util.Random;
 
-public class Supplier implements Runnable{
+public class Supplier implements Runnable {
 
     private String name;
     private Product product;
     private Queue<Product> dataQ = null;
     private boolean stopThread = false;
+
+
 
     public Supplier(String name, Product product, Queue<Product> dataQ) {
         this.name = name;
@@ -35,20 +36,23 @@ public class Supplier implements Runnable{
     @Override
     public void run() {
 
-        while(!stopThread) {
+        while (!stopThread) {
 //            System.out.println("Supplier thread is running :" + Thread.currentThread().getName());
-            Product product = new Product("My Soap",2);
 
-            dataQ.add(product);
 
-            System.out.println("Added products (Soap) to the queue");
+                Product product = new Product("My Soap", 2);
 
-            try {
+                dataQ.add(product);
 
-                Thread.sleep(5000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+
+                System.out.println("Added product to the queue " + dataQ.size());
+
+                try {
+                    Thread.sleep(2000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
         }
     }
-}
+

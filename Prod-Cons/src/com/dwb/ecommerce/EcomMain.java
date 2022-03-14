@@ -19,9 +19,17 @@ public class EcomMain {
 
          Shop shop = new Shop("MyShop",dataQueue);
 
+
+
         Thread sup1 = new Thread(supplier);
 
         Thread cons = new Thread(consumer);
+
+        Thread shopThread = new Thread(shop);
+
+
+
+        shopThread.start();
 
         sup1.start();
 

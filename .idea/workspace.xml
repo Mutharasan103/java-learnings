@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5221d274-b624-4654-948e-c31da08532ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arraylisdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreateHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeUsingArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmployeeUsingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Excersice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashsetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JsonRead/src/Jsonread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultithreadingRunnableInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QueueCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreadConcepts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreesetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supplier - Consumer/src/ShoppinDemo/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supplier - Consumer/src/ShoppinDemo/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supplier - Consumer/src/ShoppinDemo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supplier - Consumer/src/ShoppinDemo/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Supplier - Consumer/src/ShoppinDemo/ShopRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Daily report.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java - Learnings.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mulithreading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mulithreading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/EcomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/EcomMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prod-Cons/src/com/dwb/ecommerce/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/EcomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/EcomMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Supplier - Consumer/src/com/dwb/shopping/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.dwb.excersice/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/com.dwb.excersice/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.dwb.excersice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.dwb.excersice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.dwb.tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com.dwb.tasks/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

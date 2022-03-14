@@ -1,4 +1,4 @@
-package com.dwb.shopping;
+package ShoppinDemo;
 
 public class Product {
     private String name;

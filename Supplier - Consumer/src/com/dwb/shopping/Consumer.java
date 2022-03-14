@@ -1,4 +1,4 @@
-package com.dwb.ecommerce;
+package com.dwb.shopping;
 
 import java.util.Queue;
 import java.util.Random;
@@ -10,9 +10,9 @@ public class Consumer implements Runnable {
     private boolean stopThread = false;
     private Queue<Product> dataQ = null;
 
-    public Consumer(String name, Queue<Product> dataQ) {
+    public Consumer(String name, Queue<Product> customerQ) {
         this.name = name;
-        this.dataQ = dataQ;
+        this.dataQ = customerQ;
     }
 
     public String getName() {
@@ -32,34 +32,40 @@ public class Consumer implements Runnable {
     }
 
     @Override
-    public void run() {
+    synchronized public void run() {
 
-        while(!stopThread){
-//            System.out.println("Consumer thread is running : "+ Thread.currentThread().getName());
+        while (!stopThread) {
 
-
-            Product product = dataQ.peek();
-
-            if(product == null ){
-                System.out.println("Queue is empty");
-            }
-            else{
-                System.out.println("***********************************************");
-                System.out.println("Product name:"+product.getName()+" Quantity: "+product.getQuantity() + " Size:"+dataQ.size());
-                System.out.println("***********************************************");
-            }
+            // System.out.println("Consumer thread is running : "+ Thread.currentThread().getName());
 
 
-            try {
-                int max = 5;
-                int min = 1;
-                Random r = new Random();
-                final int interval = r.nextInt(max - min + 1) + min;
-                Thread.sleep(interval*2000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+                 Product product = dataQ.poll();
+
+               if (product == null) {
+
+                   System.out.println("Queue is empty");
+
+
+               } else {
+                    System.out.println("*******************************************************");
+                    System.out.println("Consumer Consuming");
+                    System.out.println("Product name:" + product.getName() + " Quantity: " + product.getQuantity() + " Size:" + dataQ.size());
+                    System.out.println("*******************************************************");
+
+                    try {
+
+                        int max = 5;
+                        int min = 1;
+                        Random r = new Random();
+                        final int interval = r.nextInt(max - min + 1) + min;
+                        Thread.sleep(interval * 2000);
+
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+
             }
         }
-
     }
-}
+

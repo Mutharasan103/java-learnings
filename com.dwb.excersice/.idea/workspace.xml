@@ -2,61 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4fe2f56-dd44-4329-bd07-f649c4f22f26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/com.dwb.collections.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/src/Arraylisdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/src/EmployeeUsingArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/src/Hashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/src/HashsetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/src/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com.dwb.collections/src/TreesetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com.dwb.excersice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ATMDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/CreateHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/CreateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Excersice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/QueueCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersice/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersice/EmployeeUsingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excersice/Excersice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalProgramming/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionalProgramming/Methodreference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/createaclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Daily report.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../Daily report.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/PrivateMethodCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/PrivateMethodCall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.Learning/src/StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.Learning/src/StringMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BusReservation/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusReservation/Booking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BusReservation/BusClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusReservation/BusClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BusReservation/BusDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusReservation/BusDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleNumberOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SampleNumberOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.practice1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.practice1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Methodsdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Methodsdemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Palindraome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Palindraome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Possibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Possibility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Primedemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Primedemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/SumofDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/SumofDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.dwb.workout/src/Sumofthreedigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.dwb.workout/src/Sumofthreedigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/ShoppinDemo/ShopRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/EcomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/EcomMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Prod-Cons/src/com/dwb/ecommerce/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/EcomMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/EcomMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Supplier - Consumer/src/com/dwb/shopping/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +67,7 @@
       <recent name="Collection" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Methodreference">
+  <component name="RunManager" selected="Application.Example">
     <configuration name="CreateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collection.CreateList" />
       <module name="com.dwb.excersice" />
@@ -120,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeUsingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersice.EmployeeUsingArrayList" />
+    <configuration name="EmployeeUsingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excersice.EmployeeUsingList" />
       <module name="com.dwb.excersice" />
       <extension name="coverage">
         <pattern>
@@ -133,12 +94,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeUsingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Excersice.EmployeeUsingList" />
-      <module name="com.dwb.excersice" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Excersice.*" />
+          <option name="PATTERN" value="FunctionalProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.Methodreference" />
         <item itemvalue="Application.Excersice1 (1)" />
         <item itemvalue="Application.CreateList" />
         <item itemvalue="Application.EmployeeUsingList" />
-        <item itemvalue="Application.EmployeeUsingArrayList" />
       </list>
     </recent_temporary>
   </component>

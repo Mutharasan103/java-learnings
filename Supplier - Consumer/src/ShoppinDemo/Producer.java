@@ -1,34 +1,87 @@
 package ShoppinDemo;
 
-import com.dwb.shopping.Product;
-
 import java.util.Queue;
 
-public class Consumer implements Runnable {
-    private Queue<Integer> dataQ;
+public class Producer implements Runnable {
+    private String supplierName;
+    //    private Product product;
+    private Queue<Product> supplierQ = null;
+    private final boolean stopThread = false;
+    Shop shop = new Shop();
 
 
-    public Consumer(Queue<Integer> dataQ) {
-        this.dataQ = dataQ;
+    public String getSupplierName() {
+        return supplierName;
+    }
+
+    public void setSupplierName(String supplierName) {
+        this.supplierName = supplierName;
+    }
+
+//    public Product getProduct() {
+//        return product;
+//    }
+//
+//    public void setProduct(Product product) {
+//        this.product = product;
+//    }
+
+    public Queue<Product> getSupplierQ() {
+        return supplierQ;
+    }
+
+    public void setSupplierQ(Queue<Product> supplierQ) {
+        this.supplierQ = supplierQ;
+    }
+
+    public Producer(String supplierName, Queue<Product> supplierQ) {
+        this.supplierName = supplierName;
+        this.supplierQ = supplierQ;
     }
 
     @Override
-    public void run() {
-        while (true) {
-            synchronized (dataQ) {
-                System.out.println("Consumer is waiting for producer produce a product ");
+    synchronized public void run() {
+        while (!stopThread) {
+            if (shop.capacity==0)
+            {
                 try {
-                    dataQ.wait();
+                    shop.produce();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
-            int data = dataQ.poll();
-            System.out.println("Consumer consumed: " + data);
-            dataQ.notify();
-
-
         }
     }
 }
+
+//                if (supplierQ.size()==0)
+//                {
+//                    System.out.println("Queue is Empty");
+//
+//                }
+//                else
+//
+//                    shop.produce();
+//
+//
+//                  System.out.println("Supplier start supply a product to shop");
+
+//                Product product = new Product("Soap", 2);
+//                supplierQ.add(product);
+//                System.out.println("Product added to the shop: " + supplierQ.size());
+//                try {
+//                    Thread.sleep(2000);
+//                } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
+
+//            }
+//
+//
+//
+//        }
+//
+//    }
+//
+
 

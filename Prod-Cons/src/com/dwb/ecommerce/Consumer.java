@@ -37,8 +37,7 @@ public class Consumer implements Runnable {
         while(!stopThread){
 //            System.out.println("Consumer thread is running : "+ Thread.currentThread().getName());
 
-
-            Product product = dataQ.peek();
+            Product product = dataQ.poll();
 
             if(product == null ){
                 System.out.println("Queue is empty");
@@ -50,12 +49,13 @@ public class Consumer implements Runnable {
             }
 
 
+
             try {
                 int max = 5;
                 int min = 1;
                 Random r = new Random();
                 final int interval = r.nextInt(max - min + 1) + min;
-                Thread.sleep(interval*2000);
+                Thread.sleep(interval*1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
