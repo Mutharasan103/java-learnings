@@ -8,8 +8,8 @@ public class Shop {
     private String name;
     private boolean stopThread = false;
     public Queue<Product> supplierQ = new LinkedList<>();
-    private Queue<Product> ConsumerQ =new LinkedList<>();
-    int capacity = 0;
+    private Queue<Product> ConsumerQ = new LinkedList<>();
+    public int capacity = 0;
 
     public String getName() {
         return name;
@@ -51,24 +51,34 @@ public class Shop {
 
     synchronized public void consume() throws InterruptedException {
         while (!stopThread) {
-
-                ConsumerQ.poll();
-                capacity = ConsumerQ.size();
-                System.out.println("Consumer consume product from shop: " + capacity);
-
-                try {
-                    int max = 5;
-                    int min = 1;
-                    Random r = new Random();
-                    final int interval = r.nextInt(max - min + 1) + min;
-                    Thread.sleep(interval * 1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
+                Product product = ConsumerQ.poll();
+                if (product==null)
+                {
+                    System.out.println("Queue is Empty");
                 }
-            }
+                else
+                {
+                    System.out.println("Consumer consume product from shop: " + supplierQ.size());
+                    capacity = supplierQ.size();
+                    System.out.println("The size of shop is " + capacity);
+                    notifyAll();
+                }
 
+
+
+            try {
+                int max = 5;
+                int min = 1;
+                Random r = new Random();
+                final int interval = r.nextInt(max - min + 1) + min;
+                Thread.sleep(interval * 1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
         }
+
     }
+}
 
 
 

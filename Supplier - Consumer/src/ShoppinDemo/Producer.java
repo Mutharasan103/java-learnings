@@ -4,7 +4,7 @@ import java.util.Queue;
 
 public class Producer implements Runnable {
     private String supplierName;
-    //    private Product product;
+    private Product product;
     private Queue<Product> supplierQ = null;
     private final boolean stopThread = false;
     Shop shop = new Shop();
@@ -18,13 +18,13 @@ public class Producer implements Runnable {
         this.supplierName = supplierName;
     }
 
-//    public Product getProduct() {
-//        return product;
-//    }
-//
-//    public void setProduct(Product product) {
-//        this.product = product;
-//    }
+    public Product getProduct() {
+        return product;
+    }
+
+    public void setProduct(Product product) {
+        this.product = product;
+    }
 
     public Queue<Product> getSupplierQ() {
         return supplierQ;
@@ -40,19 +40,18 @@ public class Producer implements Runnable {
     }
 
     @Override
-    synchronized public void run() {
+    public void run() {
         while (!stopThread) {
-            if (shop.capacity==0)
-            {
-                try {
+              try {
                     shop.produce();
+                    Thread.sleep(500);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
         }
     }
-}
+
 
 //                if (supplierQ.size()==0)
 //                {

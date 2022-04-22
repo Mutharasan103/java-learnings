@@ -1,7 +1,6 @@
 package com.dwb.shopping;
 
 import java.util.Queue;
-import java.util.Random;
 
 public class Supplier implements Runnable {
 

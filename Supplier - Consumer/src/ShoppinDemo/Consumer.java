@@ -7,7 +7,6 @@ public class Consumer implements Runnable {
     private String consumerName;
     private Queue<Product> consumerQ = null;
     private boolean stopThread = false;
-    //    private Product product;
     Shop shop = new Shop();
 
 
@@ -18,18 +17,6 @@ public class Consumer implements Runnable {
     public void setConsumerQ(Queue<Product> consumerQ) {
         this.consumerQ = consumerQ;
     }
-
-//    public Product getProduct() {
-//        return product;
-//    }
-//
-//    public void setProduct(Product product) {
-//        this.product = product;
-//    }
-//
-//    public Consumer(Product product) {
-//        this.product = product;
-//    }
 
     public String getConsumerName() {
         return consumerName;
@@ -46,12 +33,13 @@ public class Consumer implements Runnable {
     }
 
     @Override
-    synchronized public void run() {
+    public void run() {
         // System.out.println("Consumer consume a product: " + Thread.currentThread().getName());
         while (!stopThread) {
 
             try {
                 shop.consume();
+                Thread.sleep(1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
